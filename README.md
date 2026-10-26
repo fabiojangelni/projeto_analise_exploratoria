@@ -7,10 +7,11 @@ Este repositório contém os notebooks e o relatório do projeto de análise exp
 - `analise_exploratoria_vendas.ipynb`: análise com Pandas, NumPy, Matplotlib e Seaborn.
 - `analise_exploratoria_vendas_projeto.ipynb`: notebook do projeto.
 - `PROJETO_ANALISE_DE_DADOS.pdf`: relatório do projeto.
+- `vendas_supermercado_com_cliente.csv`: dados utilizados nas análises.
 
 ## Dados
 
-O arquivo `vendas_supermercado_com_cliente.csv` não é versionado porque contém dados de idade e renda associados a registros de venda. Para executar os notebooks, obtenha uma cópia autorizada desse arquivo e coloque-a nesta pasta. O `.gitignore` evita que o CSV seja adicionado ao repositório por engano.
+O arquivo `vendas_supermercado_com_cliente.csv` está incluído neste repositório e contém dados de idade e renda associados a registros de venda.
 
 ## Como executar
 
